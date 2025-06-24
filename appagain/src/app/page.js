@@ -1,5 +1,5 @@
 import Image from "next/image";
-import EventFunctionState from "./components/EventFunctionState";
+import EventFunctionState from "@/components/EventFunctionState";
 
 export default function Home() {
   return (
