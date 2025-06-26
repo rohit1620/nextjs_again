@@ -10,5 +10,3 @@ const Number = ({ params }) => {
     </div>
   );
 };
-
-export default Number;
